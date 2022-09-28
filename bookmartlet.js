@@ -23,5 +23,5 @@ _0x3b6412(_0x247544%2C_0x4a2a8b%2C_0x5c5cf3%2C_0x2d6959%2C_0x2d18e)%7Breturn _0x
 
 
 
-just copy everything above and when you make a bookmark like all my school friends... yes i see you thomas, and liam you guys dont have to 
-put javascript: because as u see at the top its already there ;)
+just copy everything above and when you make a bookmark, like all my school friends... yes i see you thomas, and liam you guys dont have to 
+put " javascript: " because as u see at the top its already there ;)
