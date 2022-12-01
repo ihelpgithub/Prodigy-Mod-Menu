@@ -1,3 +1,2 @@
 # Prodigy-Mod-Menu
-this works in Sep 2022
-HACKS ARE SHUT DOWN
+as of december 1st, 2022, the hacks no longer work
